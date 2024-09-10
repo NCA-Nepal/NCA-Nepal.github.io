@@ -1,9 +1,6 @@
 +++
-title = 'NCA@Nepal'
-date = 2024-09-10
+title = 'About Us'
 draft = false
 +++
 
-# about us
-
-- post
+- Updating Soon
