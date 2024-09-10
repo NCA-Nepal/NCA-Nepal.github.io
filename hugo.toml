@@ -71,7 +71,7 @@ ignoreErrors = ["additional-script-loading-error"]
   background = "background.jpg"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "NCA@Nepal"
-  name = "NCA"
+  name = "NCA@Nepal"
   description = "We are Nepal’s foremost cybersecurity community and CTF team, dedicated to guiding individuals into cybersecurity through challenges and mentorship."
 
 # Allow to override webmanifest options
