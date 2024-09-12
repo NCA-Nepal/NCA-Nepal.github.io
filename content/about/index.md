@@ -29,6 +29,7 @@ At NCA@Nepal, we dive into  CTF competitions, tackle complex cybersecurity chall
 |  kaloobaagh  | Active Player |    Osint/Web     | `kaloobaagh [@] ncateam.xyz`   |
 |    F3L1X_    | Active Player |    Osint/Web     |  `f3l1x_ [@] ncateam.xyz`      |
 | pegasus3232  | Active Player |    Osint/Web     |  `pegasus3232 [@] ncateam.xyz` |
+|   At0m.ix    | Active Player |   Rev/Pwn/Web    |  `at0m.ix [@] ncateam.xyz`     |
 
 ## Want to Join Us?
 We’re excited to have you with us! If you’re passionate about CTFs and eager to learn and grow, reach out at [join@ncateam.xyz](mailto:join@ncateam.xyz).
