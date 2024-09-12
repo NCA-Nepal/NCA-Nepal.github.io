@@ -1,4 +1,5 @@
 baseURL = "/"
+title = 'NCA@Nepal'
 languageCode = "en-us"
 theme = "poison"
 paginate = 10
@@ -6,11 +7,11 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 
 [params]
     brand = "NCA@Nepal"                      # name of your site - appears in the sidebar
-    remote_brand_image = 'https://github.com/USERNAME.png' # path to a remote file
-    # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
-    description = "Update this description..." # Used as default meta description if not specified in front matter
+    remote_brand_image = '/assets/nca.jpg' # path to a remote file
+    # brand_image = "/assets/test.jpg"    # path to the image shown in the sidebar
+    description = "We are Nepal’s active cybersecurity community and CTF team." # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+    favicon = "/assets/nca.jpg"  # path to favicon (defaults to favicon.png)
 
     front_page_content = ["posts"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
@@ -26,24 +27,12 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     ]
 
     # Links to your socials.  Comment or delete any you don't need/use. 
-    discord_url = "https://discord.com"
-    email_url = "mailto://user@domain"
-    facebook_url = "https://facebook.com"
-    flickr_url = "https://flickr.com"
-    github_url = "https://github.com"
-    gitlab_url = "https://gitlab.com"
-    instagram_url = "https://instagram.com"
-    linkedin_url = "https://linkedin.com"
-    mastodon_url = "https://mastodon.social"
-    matrix_url = "https://matrix.org"
-    telegram_url = "https://telegram.org"
-    tryhackme_url = "https://tryhackme.com"
-    twitter_url = "https://twitter.com"
-    x_url = "https://x.com"
-    xmpp_url = "https://xmpp.org"
-    youtube_url = "https://youtube.com"
-    signal_url = "https://signal.org"
-    bluesky_url = "https://bsky.app"
+    discord_url = "https://discord.gg/KDuvkJHh3D"
+    email_url = "mailto://us@ncateam.xyz"
+    github_url = "https://github.com/NCA-Nepal"
+    x_url = "https://x.com/nca_np"
+    youtube_url = "https://www.youtube.com/@nca_nepal"
+    xmpp_url = 'https://ctftime.org/team/301505'
 
     # NOTE: If you don't want to use RSS, comment or delete the following lines
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml
@@ -89,10 +78,6 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     table_stripe_color_dark = "#202020"             # default is #202020
     text_color_dark = "#EEE"                        # default is #EEE
 
-    # NOTE: If using Remark42 as commenting engine, uncomment and configure these lines
-    # remark42 = true
-    # remark42_host = "https://yourhost.com"
-    # remark42_site_id = "your_site_id"
 
     # NOTE: The following three params are optional and are used to create meta tags + enhance SEO.
     # og_image = ""                       # path to social icon - front matter: image takes precedent, then og_image, then brand_url
