@@ -26,7 +26,7 @@ At NCA@Nepal, we dive into  CTF competitions, tackle complex cybersecurity chall
 |     K21      |   Moderator   |   Crypto/Osint   |     `k21 [@] ncateam.xyz`      |
 |   Nirmit0    | Active Player |    Web/Crypto    |   `nirmit0 [@] ncateam.xyz`    |
 | 2b-Saikyo-1d | Active Player |    Web/Osint     | `2b-saikyo-1d [@] ncateam.xyz` |
-|              |               |                  |                            |
+|  kaloobaagh  | Active Player |    Osint/Web     | `kaloobaagh [@] ncateam.xyz`   |
 
 
 
