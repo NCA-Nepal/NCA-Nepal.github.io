@@ -7,6 +7,11 @@ Welcome to NCA@Nepal! We are Nepal’s foremost cybersecurity community and Capt
 
 At NCA@Nepal, we dive into the world of CTF competitions, tackle complex cybersecurity challenges, and engage in dynamic mentorship. Our goal is simple yet profound: to foster a community where we can all learn, grow, and thrive in the realm of cybersecurity. Whether you’re  new or looking to get started to sharpen your skills, we’re here to guide you, support you, and grow with you.
 
+## Join Our Community
+
+💬 Connect with us on [Discord](https://discord.gg/KDuvkJHh3D) and be part of our vibrant community!
+
+
 ## Meet the Team
 
 |                  **Name**                  | **Specialization** |   **Discord UID**   |           **Email**            |
@@ -23,3 +28,4 @@ At NCA@Nepal, we dive into the world of CTF competitions, tackle complex cyberse
 
 ## Want to Join Us?
 We’re excited to have you with us! If you’re passionate about CTFs and eager to learn and grow, reach out at `join@ncateam.xyz`.
+
