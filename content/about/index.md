@@ -36,4 +36,4 @@ At NCA@Nepal, we dive into  CTF competitions, tackle complex cybersecurity chall
 We’re excited to have you with us! If you’re passionate about CTFs and eager to learn and grow, reach out at [join@ncateam.xyz](mailto:join@ncateam.xyz).
 
 ## Contact?
-Want to contact us for business or collaboration purposes? Email us at [us@ncateam.xyz](mailto:us@ncateam.xyz).
+Want to contact us for business or collaboration purposes? Email us at: `us [@] ncateam.xyz`.
