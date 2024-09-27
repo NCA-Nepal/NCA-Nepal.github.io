@@ -26,12 +26,13 @@ At NCA@Nepal, we dive into  CTF competitions, tackle complex cybersecurity chall
 |     K21      |   Moderator   |   Crypto/Osint   |     `k21 [@] ncateam.xyz`      |
 |   Nirmit0    | Active Player |    Web/Crypto    |   `nirmit0 [@] ncateam.xyz`    |
 | 2b-Saikyo-1d | Active Player |    Web/Osint     | `2b-saikyo-1d [@] ncateam.xyz` |
-|  kaloobaagh  | Active Player |    Osint/Web     | `kaloobaagh [@] ncateam.xyz`   |
-|    F3L1X_    | Active Player |    Osint/Web     |  `f3l1x_ [@] ncateam.xyz`      |
-| pegasus3232  | Active Player |    Osint/Web     |  `pegasus3232 [@] ncateam.xyz` |
+|  kaloobaagh  | Active Player |    Web/Osint     | `kaloobaagh [@] ncateam.xyz`   |
+|    F3L1X_    | Active Player |    Web/Osint     |  `f3l1x_ [@] ncateam.xyz`      |
+| pegasus3232  | Active Player |    Web/Osint     |  `pegasus3232 [@] ncateam.xyz` |
 |   At0m.ix    | Active Player |   Rev/Pwn/Web    |  `at0m.ix [@] ncateam.xyz`     |
 |    p0u       | Active Player |       Rev        |  `p0u [@] ncateam.xyz`         |
 |  Xexhausted  | Active Player |     Web/Crypto   |  `xexhausted [@] ncateam.xyz`  |
+|   skde       | Active Player |   Web/Forensics  |     `skde [@] ncateam.xyz`     |
 
 ## Want to Join Us?
 We’re excited to have you with us! If you’re passionate about CTFs and eager to learn and grow, reach out at [join@ncateam.xyz](mailto:join@ncateam.xyz).
