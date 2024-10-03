@@ -33,7 +33,8 @@ At NCA@Nepal, we dive into  CTF competitions, tackle complex cybersecurity chall
 |    p0u       | Active Player |       Rev        |  `p0u [@] ncateam.xyz`         |
 |  Xexhausted  | Active Player |     Web/Crypto   |  `xexhausted [@] ncateam.xyz`  |
 |   skde       | Active Player |   Web/Forensics  |     `skde [@] ncateam.xyz`     |
-|  Kree_004    | Active Player |    Web/Crypto    |   `Kree_004 [@] ncateam.xyz`   |
+|  Kree_004    | Active Player |    Web/Crypto    |   `kree_004 [@] ncateam.xyz`   |
+|   Starman    | Active Player |    Web/Osint     |     `starman [@] ncateam.xyz`  |
 
 ## Want to Join Us?
 We’re excited to have you with us! If you’re passionate about CTFs and eager to learn and grow, reach out at [join@ncateam.xyz](mailto:join@ncateam.xyz).
