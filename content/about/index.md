@@ -21,7 +21,6 @@ At NCA@Nepal, we dive into  CTF competitions, tackle complex cybersecurity chall
 |   RezyDev    |  Co-Founder   |     Web/Misc     |   `rezydev [@] ncateam.xyz`    |
 |  4lch3mis7   |  Co-Founder   |    Web/Crypto    |  `4lch3mis7 [@] ncateam.xyz`   |
 |  0x7375646F  |   Moderator   |     Rev/Pwn      |  `0x7375646F [@] ncateam.xyz`  |
-|    0x0w1z    |   Moderator   |    Forensics     |    `0x0w1z [@] ncateam.xyz`    |
 |  cybercena   |   Moderator   |      Osint       |  `cybercena [@] ncateam.xyz`   |
 |     K21      |   Moderator   |   Crypto/Osint   |     `k21 [@] ncateam.xyz`      |
 |   Nirmit0    | Active Player |    Web/Crypto    |   `nirmit0 [@] ncateam.xyz`    |
