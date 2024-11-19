@@ -32,7 +32,6 @@ At NCA@Nepal, we dive into  CTF competitions, tackle complex cybersecurity chall
 |    F3L1X_    | Active Player |    Web/Osint     |  `f3l1x_ [@] ncateam.xyz`      |
 | pegasus3232  | Active Player |    Web/Osint     |  `pegasus3232 [@] ncateam.xyz` |
 |   At0m.ix    | Active Player |   Rev/Pwn/Web    |  `at0m.ix [@] ncateam.xyz`     |
-|    p0u       | Active Player |       Rev        |  `p0u [@] ncateam.xyz`         |
 |   skde       | Active Player |   Web/Forensics  |     `skde [@] ncateam.xyz`     |
 |  Kree_004    | Active Player |    Web/Crypto    |   `kree_004 [@] ncateam.xyz`   |
 |   Starman    | Active Player |    Web/Osint     |     `starman [@] ncateam.xyz`  |
